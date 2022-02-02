@@ -1,0 +1,74 @@
+[
+  {  
+   "plauktaID": 1,
+   "gramatasID": "A1",
+   "autors": "Ērina Hantere",
+   "nosaukums": "Klanu kaķi 1 Brīvībā",
+   "valoda": "Latviešu valoda",
+   "zanrs": "Literatūra bērniem",
+   "lapuskaits": "322"
+   },
+  {
+   "plauktaID": 1,
+   "gramatasID": "A2",
+   "nosaukums": "Klanu kaķi 2 Uguns un ledus",
+   "autors": "Ērina Hantere", 
+   "valoda": "Latviešu valoda ",
+   "zanrs": "Literatūra bērniem",
+   "lapuskaits": "362"    
+  },
+  {
+   "plauktaID": 1,
+   "gramatasID": "A3",
+   "nosaukums": "Klanu kaķi 3 Noslēpumu mežs",
+   "autors": "Ērina Hantere", 
+   "valoda": "Latviešu valoda ",
+   "zanrs": "Literatūra bērniem",
+   "lapuskaits": "382"
+  },
+  {
+   "plauktaID": 1,
+   "gramatasID": "A4",
+   "nosaukums": "Klanu kaķi 4 Tuvojas negaiss",
+   "autors": "Ērina Hantere", 
+   "valoda": "Latviešu valoda ", 
+   "zanrs": "Literatūra bērniem",
+   "lapuskaits": "302"   
+  },
+  {
+   "plauktaID": 1,
+   "gramatasID": "A5",
+   "nosaukums": "Klanu kaķi 5 Bīstamā taka",
+   "autors": "Ērina Hantere", 
+   "valoda": "Latviešu valoda ", 
+   "zanrs": "Literatūra bērniem",
+   "lapuskaits": "368"   
+  },
+  {
+   "plauktaID": 1,
+   "gramatasID": "A6",
+   "nosaukums": "Klanu kaķi 6 Nestundā",
+   "autors": "Ērina Hantere", 
+   "valoda": "Latviešu valoda ", 
+   "zanrs": "Literatūra bērniem",
+   "lapuskaits": "368"   
+  },
+  {
+   "plauktaID": 1,
+   "gramatasID": "A7",
+   "nosaukums": "Klanu kaķi: jauns pareģojums 1 Pusnakts",
+   "autors": "Ērina Hantere", 
+   "valoda": "Latviešu valoda ", 
+   "zanrs": "Literatūra bērniem",
+   "lapuskaits": "368"   
+  },
+  {
+   "plauktaID": 1,
+   "gramatasID": "A8",
+   "nosaukums": "Klanu kaķi: jauns pareģojums 2 Mēnesnīca",
+   "autors": "Ērina Hantere", 
+   "valoda": "Latviešu valoda ", 
+   "zanrs": "Literatūra bērniem",
+   "lapuskaits": "336"   
+  }
+]
