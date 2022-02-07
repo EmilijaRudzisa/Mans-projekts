@@ -1,0 +1,12 @@
+[
+  {  
+   "plauktaID": 1,
+   "cik_plaukta_gramatas": 30,
+   "kurs_plaukts": "pie galda"
+   },
+   {  
+   "plauktaID": 2,
+   "cik_plaukta_gramatas": 40,
+   "kurs_plaukts": "pie galda2"
+   }
+]
