@@ -1,5 +1,5 @@
 function fetchData() {
-  fetch("./man.json")
+  fetch("./2.table.json")
   .then(response => {
     if (!response.ok) {
       throw Error("error");
@@ -13,8 +13,12 @@ function fetchData() {
       return `
           <tr>
             <td>${persona.plauktaID}</td>
-            <td>${persona.cik_plaukta_gramatas}</td>
-            <td>${persona.kurs_plaukts}</td> 
+            <td>${persona.gramatasID}</td>
+            <td>${persona.autors}</td>
+            <td>${persona.nosaukums}</td> 
+            <td>${persona.valoda}</td>     
+            <td>${persona.zanrs}</td>    
+            <td>${persona.lapuskaits}</td>  
           </tr>
       `;
     })
