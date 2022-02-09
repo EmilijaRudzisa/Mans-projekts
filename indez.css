@@ -7,41 +7,46 @@ body {
   background-size: cover;
 }
 .header {
-  padding: 20px;
+  padding: 35px;
+  height: 40px;
   text-align: center;
   background: #EBA271;
   color: white;
-  font-size: 30px;
+}
+
+.nav-a9 {
+  float: top;
+  position: absolute;
+  top: 27px;
+  left: 47px;
 }
 .nav-a1 {
     color: #071108;
-    position: relative;
+    position: absolute;
     font-family: Roboto;
     font-size: 40px;
     line-height: 10px;
     text-align: right;
-    top: 20px;
-    right: 40px;
+    top: 57px;
+    right: 620px;
   }
   .nav-a2{
     color: #071108;
-    position: relative;
+    position: absolute;
     font-family: Roboto;
     font-size: 40px;
     line-height: 10px;
     text-align: right;
-    width: 1700px;
-    top: 20px;
-    right: 30px;
+    top: 57px;
+    right: 337px;
   }
   .nav-a3 {
     color: #071108;
-    position: relative;
+    position: absolute;
     font-family: Roboto;
     font-size: 40px;
     line-height: 10px;
     text-align: right;
-    width: 1800px;
-    top: 20px;
-    right: 20px;
+    top: 57px;
+    right: 101px;
   }  
