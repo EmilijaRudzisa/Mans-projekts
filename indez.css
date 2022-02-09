@@ -1,0 +1,47 @@
+body {
+  background: url("Tutu.jpg"); 
+  background-color: #817171; 
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #EBA271;
+  color: white;
+  font-size: 30px;
+}
+.nav-a1 {
+    color: #071108;
+    position: relative;
+    font-family: Roboto;
+    font-size: 40px;
+    line-height: 10px;
+    text-align: right;
+    top: 20px;
+    right: 40px;
+  }
+  .nav-a2{
+    color: #071108;
+    position: relative;
+    font-family: Roboto;
+    font-size: 40px;
+    line-height: 10px;
+    text-align: right;
+    width: 1700px;
+    top: 20px;
+    right: 30px;
+  }
+  .nav-a3 {
+    color: #071108;
+    position: relative;
+    font-family: Roboto;
+    font-size: 40px;
+    line-height: 10px;
+    text-align: right;
+    width: 1800px;
+    top: 20px;
+    right: 20px;
+  }  
