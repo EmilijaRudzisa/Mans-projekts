@@ -48,3 +48,39 @@ body {
     top: 57px;
     right: 101px;
   }  
+.text1 {
+    color: #071108;
+    font-family: Roboto;
+    font-size: 26px;
+    line-height: 40px;
+    text-align: left;
+    position: absolute;
+    top:150px;
+    right:800px;
+    left:38px;
+    background-color: #EBD3AA;
+  }
+  .nav-a4 {
+    color: #071108;
+    font-family: Roboto;
+    font-size: 26px;
+    line-height: 40px;
+    text-align: left;
+    position: absolute;
+    top:150px;
+    right:290px;
+    left:800px;
+    background-color: #EBD3AA;
+  }
+    .nav-a5 {
+    color: #071108;
+    font-family: Roboto;
+    font-size: 26px;
+    line-height: 40px;
+    text-align: left;
+    position: absolute;
+    top:150px;
+    right:30px;
+    left:1000px;
+    background-color: #EBD3AA;
+  }

@@ -1,12 +1,25 @@
 .table {
   box-shadow: 0 0 10px rgba(66, 135, 245);
   border-collapse: collapse;
-  font-family: 'Quicksand', sans-serif;
+  font-family: Roboto;
   overflow: hidden;
   font-weight: bold;
   text-align: center;
+  background-color:#EBD3AA;
 }
-
+.si{
+    color: #071108;
+    font-family: Roboto;
+    font-size: 26px;
+    line-height: 40px;
+    text-align: left;
+    position: absolute;
+    top:230px;
+    right:38px;
+    left:38px;
+    bottom:50px;
+    background-color: #EBD3AA;  
+}
 .table thead th {
   background: #9dff1e;
   color: #271c1c
