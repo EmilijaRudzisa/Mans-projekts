@@ -1,4 +1,5 @@
 function fetchData() {
+  // iegust datus no json
   fetch("./1.table.json")
   .then(response => {
     if (!response.ok) {
