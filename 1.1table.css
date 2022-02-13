@@ -51,13 +51,14 @@ body {
 .text1 {
     color: #071108;
     font-family: Roboto;
-    font-size: 26px;
+    font-size: 36px;
     line-height: 40px;
     text-align: left;
     position: absolute;
     top:150px;
     right:800px;
     left:38px;
+    padding: 12px;
     background-color: #EBD3AA;
   }
   .nav-a4 {
@@ -71,6 +72,7 @@ body {
     right:290px;
     left:800px;
     background-color: #EBD3AA;
+    padding: 12px;
   }
     .nav-a5 {
     color: #071108;
@@ -83,4 +85,5 @@ body {
     right:30px;
     left:1000px;
     background-color: #EBD3AA;
+    padding: 12px;
   }
