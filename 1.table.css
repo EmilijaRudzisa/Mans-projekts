@@ -2,10 +2,14 @@
   box-shadow: 0 0 10px rgba(66, 135, 245);
   border-collapse: collapse;
   font-family: Roboto;
-  overflow: hidden;
+  position: absolute;
   font-weight: bold;
   text-align: center;
-  background-color:#EBD3AA;
+  background-color:#FFB07B;
+  top:240px;
+  right:38px;
+  left:390px;
+  bottom:50px;
 }
 .si{
     color: #071108;
@@ -21,8 +25,8 @@
     background-color: #EBD3AA;  
 }
 .table thead th {
-  background: #9dff1e;
-  color: #271c1c
+  background: #FCBD93;
+  color: #071108
 }
 
 .table td,
@@ -31,9 +35,9 @@
 }
 
 .table tbody tr:nth-of-type(even) {
-  background: #befb4b;
+  background: #FCBD93 ;
 }
 
 .table tbody tr:last-of-type {
-  border-bottom: 2px solid #caf04e;
+  border-bottom: 2px solid #FCBD93 ;
 }
