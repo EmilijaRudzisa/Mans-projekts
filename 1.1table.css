@@ -1,10 +1,14 @@
+
 body {
+  /* pievieno fona krasu */
   background-color: #FFFFFF; 
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;
 }
+
 .header {
+  /*izviedo header */
   padding: 35px;
   height: 37px;
   text-align: center;
@@ -13,12 +17,15 @@ body {
 }
 
 .nav-a9 {
+  /*novieto tur kur vajag bildi*/
   float: top;
   position: absolute;
   top: 27px;
   left: 47px;
 }
+
 .nav-a1 {
+  /*novieto tur kur vajag tekstu*/
     color: #071108;
     position: absolute;
     font-family: Roboto;
@@ -28,7 +35,9 @@ body {
     top: 57px;
     right: 620px;
   }
-  .nav-a2{
+
+.nav-a2{
+     /*novieto tur kur vajag tekstu*/
     color: #071108;
     position: absolute;
     font-family: Roboto;
@@ -38,7 +47,9 @@ body {
     top: 57px;
     right: 337px;
   }
-  .nav-a3 {
+
+.nav-a3 {
+   /*novieto tur kur vajag tekstu*/
     color: #071108;
     position: absolute;
     font-family: Roboto;
@@ -48,7 +59,9 @@ body {
     top: 57px;
     right: 101px;
   }  
+  
 .text1 {
+  /* teksta noformēšana un parieza vieta novieto */
     color: #071108;
     font-family: Roboto;
     font-size: 36px;
@@ -61,7 +74,9 @@ body {
     padding: 12px;
     background-color: #EBD3AA;
   }
-  .nav-a4 {
+
+.nav-a4 {
+  /* teksta noformēšana un parieza vieta novieto */
     color: #071108;
     font-family: Roboto;
     font-size: 26px;
@@ -74,7 +89,9 @@ body {
     background-color: #EBD3AA;
     padding: 12px;
   }
-    .nav-a5 {
+
+.nav-a5 {
+  /* teksta noformēšana un parieza vieta novieto */
     color: #071108;
     font-family: Roboto;
     font-size: 26px;

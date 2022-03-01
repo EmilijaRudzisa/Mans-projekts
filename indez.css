@@ -6,6 +6,7 @@ body {
   background-repeat: no-repeat; 
   background-size: cover;
 }
+
 .header {
   padding: 35px;
   height: 37px;
@@ -20,6 +21,7 @@ body {
   top: 27px;
   left: 47px;
 }
+
 .nav-a1 {
     color: #071108;
     position: absolute;
@@ -30,6 +32,7 @@ body {
     top: 57px;
     right: 620px;
   }
+
   .nav-a2{
     color: #071108;
     position: absolute;
@@ -40,6 +43,7 @@ body {
     top: 57px;
     right: 337px;
   }
+
   .nav-a3 {
     color: #071108;
     position: absolute;

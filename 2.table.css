@@ -1,5 +1,4 @@
 .table {
-  box-shadow: 0 0 10px rgba(66, 135, 245);
   border-collapse: collapse;
   font-family: Roboto;
   position: absolute;
@@ -8,23 +7,22 @@
   background-color:#FFB07B;
   top:247px;
   right:48px;
-  left:48px;
+  left:88px;
   bottom:0px;
 }
-.si{
+
+.fons{
     color: #071108;
-    font-family: Roboto;
-    font-size: 26px;
-    line-height: 40px;
     text-align: left;
     position: absolute;
     top:230px;
     right:38px;
     left:38px;
-    bottom:30px;
+    bottom:20px;
     padding: 12px;
     background-color: #EBD3AA;  
 }
+
 .table thead th {
   background: #FCBD93;
   color: #071108

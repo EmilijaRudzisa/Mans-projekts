@@ -4,6 +4,7 @@ body {
   background-repeat: no-repeat; 
   background-size: cover;
 }
+
 .header {
   padding: 35px;
   height: 37px;
@@ -18,6 +19,7 @@ body {
   top: 27px;
   left: 47px;
 }
+
 .nav-a1 {
     color: #071108;
     position: absolute;
@@ -28,7 +30,8 @@ body {
     top: 57px;
     right: 620px;
   }
-  .nav-a2{
+
+.nav-a2{
     color: #071108;
     position: absolute;
     font-family: Roboto;
@@ -38,7 +41,8 @@ body {
     top: 57px;
     right: 337px;
   }
-  .nav-a3 {
+  
+.nav-a3 {
     color: #071108;
     position: absolute;
     font-family: Roboto;
@@ -47,7 +51,8 @@ body {
     text-align: right;
     top: 57px;
     right: 101px;
-  }  
+  } 
+
 .text1 {
     color: #071108;
     font-family: Roboto;
@@ -61,7 +66,8 @@ body {
     padding: 12px;
     background-color: #EBD3AA;
   }
-  .nav-a4 {
+
+.nav-a4 {
     color: #071108;
     font-family: Roboto;
     font-size: 26px;
@@ -74,7 +80,8 @@ body {
     padding: 12px;
     background-color: #EBD3AA;
   }
-    .nav-a5 {
+
+.nav-a5 {
     color: #071108;
     font-family: Roboto;
     font-size: 26px;

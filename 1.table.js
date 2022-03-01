@@ -8,7 +8,7 @@ function fetchData() {
 
     return response.json();
   })
-
+// parādīt datus tabula 
   .then(data => {
     const tabula = data.map(persona => {
       return `

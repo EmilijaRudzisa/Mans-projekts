@@ -1,6 +1,5 @@
-
-
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,44 +7,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="1.table.css">
     <link rel="stylesheet" href="1.1table.css">
+    
     <title>Mājās biblotēka</title>
 </head>
-<!-- viss tās pats kas index faila -->
- <header>
+
+ <header>  
+   <!--Izviedo header un apakša ir komāndas, kas izviedo pogas, kas strāda-->
       <div class="header">
+
        <a class="nav-a9" href="index.html"><img src="Raster.png" ></a>
+
        <a class="nav-a1" href="1.table.html"><div>Tabula</div></a>
+
        <a class="nav-a2" href="Par_mani.html"><div>Par mani</div></a>
+
        <a class="nav-a3" href="Merkis.html"><div>Mērķis</div></a>
+
       </div>
+
  </header>
     
 <body>
+
   <div class="so">
+
         <a class="nav-a4" href="2.table.html"><div>Visa t.</div></a>
+
         <a class="nav-a5" href="1.table.html"><div>Plaukta t.</div></a>   
+
   </div>
   
    <label class="text1">Plaukta tabula</label> 
-   
-   <label class="si"></label>
-   <!-- tikai šait ir tabulas galva, kur ir virkstraksti -->
+   <!-- lapa lai ir tas virksrāks un fons -->   
+   <label class="fons"></label>
+
+
     <table class="table">
+    <!-- tabulas galva  --> 
         <thead></thead>
         <tbody></tbody>
+      
         <thead>
           <tr>
           <th>Plaukta ID</th>
           <th>Cik plaukta grāmatas</th>
           <th>Kurš plaukts</th>
           </tr>
-        </thead>
+         </thead>
+
         <tbody id="showdata"></tbody>
+
     </table>
 
     <br><br>
 <!-- Pievieno js -->
     <script src="1.table.js"></script>
 
-</body>
+ </body>
+
 </html>
